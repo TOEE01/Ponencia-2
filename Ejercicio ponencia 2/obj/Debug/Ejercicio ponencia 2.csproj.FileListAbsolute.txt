@@ -1,0 +1,10 @@
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\bin\Debug\Ejercicio ponencia 2.exe.config
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\bin\Debug\Ejercicio ponencia 2.exe
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\bin\Debug\Ejercicio ponencia 2.pdb
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio ponencia 2.csprojAssemblyReference.cache
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio_ponencia_2.Form1.resources
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio_ponencia_2.Properties.Resources.resources
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio ponencia 2.csproj.GenerateResource.cache
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio ponencia 2.csproj.CoreCompileInputs.cache
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio ponencia 2.exe
+C:\Users\recin\Desktop\backup de laptop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\Ejercicio ponencia 2\obj\Debug\Ejercicio ponencia 2.pdb
